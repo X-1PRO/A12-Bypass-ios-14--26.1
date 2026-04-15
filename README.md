@@ -79,9 +79,8 @@ The system is optimized for technician workflows and high-volume device processi
 
 | Device Range         | Support Status     |
 | -------------------- | ------------------ |
-| iPhone 6 → iPhone 8  | ✅ Supported        |
-| iPhone X → iPhone 11 | ✅ Supported        |
-| iPhone 12 → Newer    | ✅ Supported        |
+| iPhone 6s → iPhone x  | ✅ Supported        |
+| iPhone Xr → iPhone 17 | ✅ Supported        |
 | iPad Models          | ⚠️ Partial Support |
 
 ---
