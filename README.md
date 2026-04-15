@@ -4,10 +4,6 @@
 
 ## Professional iCloud Bypass Tool
 
-[![Version](https://img.shields.io/badge/version-1.0-blue.svg)]()
-[![Platform](https://img.shields.io/badge/platform-Windows-green.svg)]()
-[![License](https://img.shields.io/badge/license-Private-red.svg)]()
-[![Status](https://img.shields.io/badge/status-Stable-brightgreen.svg)]()
 
 🌐 **Official Website**
 https://tkservicethl.net
