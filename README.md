@@ -56,9 +56,9 @@ https://t.me/X1ProAiOTool
 
 # 📝 Account & Serial Registration
 
-## 1️⃣ Create Account
+## 1️⃣ DOWNLOAD
 
-Register your account here:
+DOWNLOAD
 
 👉 https://tkservicethl.net
 
@@ -73,7 +73,7 @@ After login:
 * Open **Dashboard**
 * Enter your **Serial Number**
 * Activate your license
-
+![Register](https://tkservicethl.net/x1var/ss.png)
 ---
 
 # ⬇️ Download & Installation
