@@ -1,9 +1,15 @@
-<p align="center">
-
 # 🚀 X-1 PRO
 
-## Professional iCloud Bypass Tool
+## Professional Mobile Device Activation Tool
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/Version-1.3-blue">
+<img src="https://img.shields.io/badge/Platform-Windows-success">
+<img src="https://img.shields.io/badge/Status-Stable-brightgreen">
+<img src="https://img.shields.io/badge/License-Commercial-red">
+
+<br>
 
 🌐 **Official Website**
 https://tkservicethl.net
@@ -15,65 +21,106 @@ https://t.me/X1ProAiOTool
 
 ---
 
-# 📌 Table of Contents
+# 📌 Overview
 
-* ✨ Features
-* 📱 Supported Devices
-* 📝 Account & Serial Registration
-* ⬇️ Download & Installation
-* 📦 Dependencies Setup
-* ⚙️ Usage Requirements
-* ⚠️ Important Notes
-* 🔧 Troubleshooting
-* 📩 Support
-* 📜 Release Notes
+**X-1 PRO** is a professional-grade mobile device activation utility designed for technicians and repair environments.
+
+It is engineered to deliver:
+
+* High stability
+* Fast execution speed
+* Reliable multi-stage workflow
+* Real-time monitoring logs
+
+The system is optimized for technician workflows and high-volume device processing.
+
+---
+
+# 📷 System Preview
+
+## 🌐 Main Website
+
+<p align="center">
+<img src="https://tkservicethl.net/x1var/s.png" width="850">
+</p>
+
+---
+
+## 🔐 Login Page
+
+<p align="center">
+<img src="https://tkservicethl.net/x1var/ss.png" width="850">
+</p>
+
+---
+
+## 📊 Dashboard Panel
+
+<p align="center">
+<img src="https://tkservicethl.net/x1var/sss.png" width="850">
+</p>
 
 ---
 
 # ✨ Features
 
-✔️ iCloud Bypass from **iPhone 6 up to iPhone 17**
-✔️ Fast execution engine
-✔️ Stable activation workflow
-✔️ Clean real-time logs
-✔️ Serial-based activation system
-✔️ Professional technician-grade UI
-✔️ Designed for repair shops
-✔️ High success rate
+* ✔️ Wide device compatibility
+* ✔️ High-speed processing engine
+* ✔️ Stable multi-stage workflow
+* ✔️ Real-time operation logs
+* ✔️ Serial-based license activation
+* ✔️ Technician-oriented interface
+* ✔️ Designed for repair environments
+* ✔️ Reliable processing cycle
 
 ---
 
 # 📱 Supported Devices
 
-| Device Range          | Status             |
-| --------------------- | ------------------ |
-| iPhone 6 → iPhone 8   | ✅ Supported        |
-| iPhone X → iPhone 11  | ✅ Supported        |
-| iPhone 12 → iPhone 17 | ✅ Supported        |
-| iPad Models           | ⚠️ Partial Support |
+| Device Range         | Support Status     |
+| -------------------- | ------------------ |
+| iPhone 6 → iPhone 8  | ✅ Supported        |
+| iPhone X → iPhone 11 | ✅ Supported        |
+| iPhone 12 → Newer    | ✅ Supported        |
+| iPad Models          | ⚠️ Partial Support |
+
+---
+
+# ⚡ Quick Start
+
+For experienced technicians:
+
+```bash
+1. Login to official website
+2. Download latest X-1 PRO
+3. Install required components
+4. Activate Serial Number
+5. Connect device and start process
+```
 
 ---
 
 # 📝 Account & Serial Registration
 
-## 1️⃣ DOWNLOAD
+## Step 1 — Download Software
 
-DOWNLOAD
+Visit official website:
 
 👉 https://tkservicethl.net
 
-![Register](https://tkservicethl.net/x1var/s.png)
+Download the latest version of **X-1 PRO**.
 
 ---
 
-## 2️⃣ Register Serial Number
+## Step 2 — Register Serial Number
 
 After login:
 
-* Open **Dashboard**
-* Enter your **Serial Number**
-* Activate your license
-![Register](https://tkservicethl.net/x1var/ss.png)
+1. Open **Dashboard**
+2. Enter your **Serial Number**
+3. Activate license
+4. Confirm activation status
+
 ---
 
 # ⬇️ Download & Installation
@@ -82,132 +129,92 @@ After logging in:
 
 1. Go to **Download Center**
 2. Download latest **X-1 PRO**
-3. Extract files
+3. Extract downloaded archive
 4. Run installer as **Administrator**
+5. Follow installation instructions
+
+✅ After installation completes, the software is ready to use.
 
 ---
 
-# 📦 Dependencies Setup
+# 📦 Dependencies
 
-Before running **X-1 PRO**, install required dependencies.
+Required components:
 
-📁 Default Path:
+* Python (latest stable recommended)
+* USB device drivers
+* Microsoft Visual C++ Redistributable
+* Required runtime libraries
 
-```bash
-C:\X1PRO\dependencies
-```
-
----
-
-## Installation Order (IMPORTANT)
-
-### 1️⃣ Install python.exe
-
-* Double-click **python.exe**
-* Check **"Add Python to PATH"**
-* Complete installation
-
----
-
-### 2️⃣ Run install1.bat
-
-Right-click:
-
-Run as **Administrator**
-
-Wait until completed.
-
----
-
-### 3️⃣ Run install2.bat
-
-Right-click:
-
-Run as **Administrator**
-
-Wait until completed.
-
----
-
-✅ After completing all steps, you can safely run **X-1 PRO**.
+Install missing components before launching the tool.
 
 ---
 
 # ⚙️ Usage Requirements
 
-To maximize success rate:
+To ensure successful operation:
 
 ---
 
-## 📶 WiFi Connection
+## 📶 Network Requirement
 
-* Device must be connected to **WiFi**
-* Internet connection must be **stable**
+* Stable WiFi connection required
+* Avoid switching networks during process
 
 ---
 
-## 🔒 Activation Lock Screen
+## 🔒 Device State
 
-* Device must remain on
-  **Activation Lock Screen**
-* Do not navigate away
+* Keep device on required screen
+* Do not navigate away during operation
 
 ---
 
 ## 🔌 USB Connection
 
-* Use **high-quality USB cable**
+* Use high-quality USB cable
 * Avoid USB hubs
-* Keep device connected at all times
+* Connect directly to PC
 
 ---
 
-## 🔋 Battery Level
+## 🔋 Battery Requirement
 
 * Minimum **50% battery**
-* Keep device plugged in if possible
+* Recommended to connect charger
 
 ---
 
-## ⏳ Wait for Completion
+## ⏳ Processing Behavior
 
-* Do not interrupt process
-* Allow retries to finish
-* Wait during reboot cycles
-
----
-
-## 📱 Compatibility Check
-
-* Ensure device model is supported
-* Verify correct iOS version
+* Device may reboot multiple times
+* Allow process to complete
+* Do not interrupt operation
 
 ---
 
 # ⚠️ Important Notes
 
-🔁 Device may reboot **multiple times (10–20 reboots)**
-This is **NORMAL behavior**.
+🔁 Multiple device reboots are **normal behavior**
 
-⏱️ Process time:
+⏱️ Estimated processing time:
 
-**5 to 20 minutes**
-(depending on device & connection speed)
+**5–20 minutes**
+
+(depending on device model and connection quality)
 
 ---
 
 # ⛔ Do NOT Interrupt
 
-Never:
+During operation:
 
-* Disconnect USB
-* Close the tool
-* Touch the device
-* Restart manually
+* ❌ Do not disconnect USB
+* ❌ Do not close the tool
+* ❌ Do not restart manually
+* ❌ Do not interact with device
 
----
-
-✅ Simply **wait patiently** until completion.
+✅ Wait until completion message appears.
 
 ---
 
@@ -219,7 +226,7 @@ Try:
 
 * Run as **Administrator**
 * Disable antivirus temporarily
-* Reinstall dependencies
+* Reinstall required dependencies
 
 ---
 
@@ -228,7 +235,7 @@ Try:
 Check:
 
 * USB cable quality
-* USB port
+* USB port functionality
 * Driver installation
 
 ---
@@ -237,32 +244,33 @@ Check:
 
 Fix:
 
-* Reinstall **Python**
-* Re-run install scripts
+* Reinstall Python
 * Restart computer
-
----
-
-# 📩 Support
-
-📨 Telegram Support:
-
-👉 https://t.me/X1ProAiOTool
-
-🌐 Website:
-
-👉 https://tkservicethl.net
+* Install missing runtime components
 
 ---
 
 # 📜 Release Notes
 
-## Version 1.0
+## Version 1.3
 
 * Initial public release
-* Stable activation engine
+* Stable processing engine
 * Optimized USB detection
 * Improved logging system
+* Performance optimizations
+
+---
+
+# 📩 Support
+
+📨 Telegram Support
+
+👉 https://t.me/X1ProAiOTool
+
+🌐 Official Website
+
+👉 https://tkservicethl.net
 
 ---
 
@@ -271,35 +279,23 @@ Fix:
 <p align="center">
 
 🔥 Built for professionals
-🔧 Tested by technicians
-💻 Made to work
+🔧 Tested in technician environments
+💻 Designed for reliability
 
 </p>
 
 ---
 
-# ⭐ Recommended GitHub Setup
+# ⭐ Recommended Future Improvements
 
-For best presentation:
+To enhance project quality:
 
-Add these repository files:
+* Add **Auto Updater**
+* Add **Driver Pack Installer**
+* Add **Offline Activation Mode**
+* Add **Log Export System**
+* Add **Device Compatibility Checker**
 
-* `README.md` ✅ (this file)
-* `LICENSE`
-* `CHANGELOG.md`
-* `INSTALL.md`
-* `RELEASE_NOTES.md`
+These features improve workflow efficiency and long-term maintainability.
 
 ---
-
-# 🧩 Optional Add-ons (Recommended)
-
-You can later add:
-
-* Auto updater
-* Driver pack installer
-* Offline activation
-* Log export system
-
-These improve reliability and technician workflow.
-
