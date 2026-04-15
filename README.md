@@ -62,7 +62,7 @@ Register your account here:
 
 👉 https://tkservicethl.net
 
-![Register](https://github.com/user-attachments/assets/89a6c5f2-b585-4ec4-8751-483b63cc5e50)
+![Register]([https://github.com/user-attachments/assets/89a6c5f2-b585-4ec4-8751-483b63cc5e50](https://tkservicethl.net/x1var/s.png))
 
 ---
 
